@@ -1,9 +1,12 @@
+
 <h1 align="center">Hi 👋, I'm Riza Talebi</h1>
 <h3 align="center">a Fullstack developer as a remote.</h3>
+<a  href="https://app.daily.dev/RizaOfficial0"><img src="https://api.daily.dev/devcards/3347d2e1aabc4beb89c8ff5c22fef586.png?r=hg1" width="400" alt="Riza Talebi's Dev Card"/></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rezaofficial0&label=Profile%20views&color=0e75b6&style=flat" alt="rezaofficial0" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rezaofficial0" alt="rezaofficial0" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/rizaofficial0" target="blank"><img src="https://img.shields.io/twitter/follow/rizaofficial0?logo=twitter&style=for-the-badge" alt="rizaofficial0" /></a> </p>
 
