@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Riza Talebi</h1>
-<h3 align="center">a Fullstack developer as a remote.</h3>
+<h1 align="center">Hi 👋, I'm Reza Talebi</h1>
+<h3 align="center">a Computer Enginear and Ai Expert</h3>
 <a  href="https://app.daily.dev/RizaOfficial0"><img src="https://api.daily.dev/devcards/3347d2e1aabc4beb89c8ff5c22fef586.png?r=hg1" width="400" alt="Riza Talebi's Dev Card"/></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rezaofficial0&label=Profile%20views&color=0e75b6&style=flat" alt="rezaofficial0" /> </p>
@@ -10,17 +10,16 @@
 
 <p align="left"> <a href="https://twitter.com/rizaofficial0" target="blank"><img src="https://img.shields.io/twitter/follow/rizaofficial0?logo=twitter&style=for-the-badge" alt="rizaofficial0" /></a> </p>
 
-- 🔭 I’m currently working on **Signup Application**
+- 🔭 I’m currently working on **Aerospace Visualization Project**
 
-- 🌱 I’m currently learning **Spring Security And Mongodb**
+- 🌱 I’m currently learning **Calculus For Aerospace**
 
-- 👯 I’m looking to collaborate on **SuperAoolication**
+- 👯 I’m looking to collaborate on **AI and ML**
 
 - 👨‍💻 All of my projects are available at [https://tofficialriza.website/](https://tofficialriza.website/)
 
-- 📝 I regularly write articles on [https://twitter.com/Rizaofficial0](https://twitter.com/Rizaofficial0)
 
-- 💬 Ask me about **React, Javascript ,Software Architect**
+- 💬 Ask me about **React.js,Java,Calculus for CS , ML,DSA**
 
 - 📫 How to reach me **t.rezaofficial0@gmail.com**
 
@@ -28,11 +27,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rizaofficial0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rizaofficial0" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/reza talebi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="reza talebi" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/19269962" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19269962" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rezaofficial0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rezaofficial0" height="30" width="40" /></a>
-<a href="https://discord.gg/Riza Talebi#1646" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Riza Talebi#1646" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
